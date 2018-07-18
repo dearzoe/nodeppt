@@ -20,7 +20,7 @@ files: /js/demo.js,/css/demo.css
 
 [slide]
 
-2
+
 
 [slide]
 
